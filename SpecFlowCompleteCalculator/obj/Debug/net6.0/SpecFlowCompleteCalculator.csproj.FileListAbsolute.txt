@@ -1,0 +1,12 @@
+C:\Users\Eduar\Documents\GitHub\SpecFlowCompleteCalculator\bin\Debug\net6.0\SpecFlowCompleteCalculator.deps.json
+C:\Users\Eduar\Documents\GitHub\SpecFlowCompleteCalculator\bin\Debug\net6.0\SpecFlowCompleteCalculator.dll
+C:\Users\Eduar\Documents\GitHub\SpecFlowCompleteCalculator\bin\Debug\net6.0\SpecFlowCompleteCalculator.pdb
+C:\Users\Eduar\Documents\GitHub\SpecFlowCompleteCalculator\obj\Debug\net6.0\SpecFlowCompleteCalculator.csproj.AssemblyReference.cache
+C:\Users\Eduar\Documents\GitHub\SpecFlowCompleteCalculator\obj\Debug\net6.0\SpecFlowCompleteCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduar\Documents\GitHub\SpecFlowCompleteCalculator\obj\Debug\net6.0\SpecFlowCompleteCalculator.AssemblyInfoInputs.cache
+C:\Users\Eduar\Documents\GitHub\SpecFlowCompleteCalculator\obj\Debug\net6.0\SpecFlowCompleteCalculator.AssemblyInfo.cs
+C:\Users\Eduar\Documents\GitHub\SpecFlowCompleteCalculator\obj\Debug\net6.0\SpecFlowCompleteCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Eduar\Documents\GitHub\SpecFlowCompleteCalculator\obj\Debug\net6.0\SpecFlowCompleteCalculator.dll
+C:\Users\Eduar\Documents\GitHub\SpecFlowCompleteCalculator\obj\Debug\net6.0\refint\SpecFlowCompleteCalculator.dll
+C:\Users\Eduar\Documents\GitHub\SpecFlowCompleteCalculator\obj\Debug\net6.0\SpecFlowCompleteCalculator.pdb
+C:\Users\Eduar\Documents\GitHub\SpecFlowCompleteCalculator\obj\Debug\net6.0\ref\SpecFlowCompleteCalculator.dll
